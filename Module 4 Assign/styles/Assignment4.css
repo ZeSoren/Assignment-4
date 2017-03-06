@@ -1,0 +1,10 @@
+section.section1 {max-width: 600px; overflow: scroll; position: relative; visibility: hidden;}
+
+section.section2 {max-width: 600px; overflow:scroll; position: absolute; top: 120px;  visibility: hidden;}
+
+h2{font-family: sans-serif;}
+
+#wind{padding: 5pt; height: 25%; width: 25%;}
+
+#under{padding: 5pt; height: 25%; width: 25%;}
+
